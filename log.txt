@@ -17,3 +17,4 @@ review
 tttt
 logCommand test
 logCommand test1
+logCommand test 2
