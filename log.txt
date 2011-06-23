@@ -16,3 +16,4 @@ test 15/06 #3
 review
 tttt
 logCommand test
+logCommand test1
