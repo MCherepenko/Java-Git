@@ -22,3 +22,4 @@ logCommand test 3
 111
 222
 review
+review 2
