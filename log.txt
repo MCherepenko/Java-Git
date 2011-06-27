@@ -23,3 +23,4 @@ logCommand test 3
 222
 review
 review 2
+master
