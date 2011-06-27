@@ -24,4 +24,5 @@ logCommand test 3
 review
 review 2
 new branch created
+new branch
 
