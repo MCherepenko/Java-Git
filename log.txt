@@ -23,4 +23,12 @@ logCommand test 3
 222
 review
 review 2
+<<<<<<< HEAD
 master
+=======
+new branch created
+new branch
+new branch 1
+new branch 2
+
+>>>>>>> testing_saving_Head_hash
